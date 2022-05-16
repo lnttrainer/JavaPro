@@ -9,3 +9,5 @@
 
 
 S.Ou.Print("Hello")
+
+C = A + B
